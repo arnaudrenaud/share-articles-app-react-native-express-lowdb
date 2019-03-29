@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "title": "GitHub - manoelt/50M_CTF_Writeup: $50 Million CTF from Hackerone - Writeup",
+      "imageURL": "https://avatars3.githubusercontent.com/u/731467?s=400&v=4",
+      "description": "$50 Million CTF from Hackerone - Writeup. Contribute to manoelt/50M_CTF_Writeup development by creating an account on GitHub.",
+      "url": "https://github.com/manoelt/50M_CTF_Writeup"
+    },
+    {
+      "title": "The Pros and Cons of Coworking Spaces | HowStuffWorks",
+      "imageURL": "https://r.hswstatic.com/w_1024/gif/coworking-space-3.jpg",
+      "description": "Coworking spaces are on a tremendous growth curve. But are they all they're cracked up to be?",
+      "url": "https://money.howstuffworks.com/pros-and-cons-coworking-spaces.htm"
+    }
+  ]
+}
