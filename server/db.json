@@ -11,6 +11,92 @@
       "imageURL": "https://r.hswstatic.com/w_1024/gif/coworking-space-3.jpg",
       "description": "Coworking spaces are on a tremendous growth curve. But are they all they're cracked up to be?",
       "url": "https://money.howstuffworks.com/pros-and-cons-coworking-spaces.htm"
+    },
+    {
+      "title": "How to build a simple session-based authentication system with NodeJS from scratch. | Codementor",
+      "imageURL": "https://cdn.filestackcontent.com/j5YtRmz6QtuUZ4Q0PR84",
+      "description": "This tutorial will teach you how to build a simple session-based authentication system with NodeJS from scratch.",
+      "url": "https://www.codementor.io/mayowa.a/how-to-build-a-simple-session-based-authentication-system-with-nodejs-from-scratch-6vn67mcy3",
+      "username": "Grégoire"
+    },
+    {
+      "title": "« J’ai à nouveau une sensation de naufrage » : l’Argentine en crise, 18 ans après l’effondrement",
+      "imageURL": "https://img.lemde.fr/2019/04/25/85/0/1024/512/1440/720/60/0/03face6_GxArAIRkQdLe2zPI3G7EhDOM.jpg",
+      "description": "Le gouvernement maintient la politique d’austérité du FMI, alors que le taux de pauvreté est le plus haut depuis l’effondrement de l’économie en 2001.",
+      "url": "https://www.lemonde.fr/international/article/2019/04/25/crise-en-argentine-j-ai-a-nouveau-une-sensation-de-naufrage_5454952_3210.html"
+    },
+    {
+      "title": "Bilveer Singh : « Nous sommes confrontés à l’EI 2.0 d’après la perte de son territoire »",
+      "imageURL": "https://img.lemde.fr/2019/04/26/95/0/3500/1747/1440/720/60/0/162718d_FFF-DEL10_SRILANKA-BLASTS-INDIA_0426_11.JPG",
+      "description": "Chercheur en sciences politiques à Singapour, Bilveer Singh analyse le déploiement de l’organisation Etat islamique en Asie.",
+      "url": "https://www.lemonde.fr/international/article/2019/04/26/bilveer-singh-nous-sommes-confrontes-a-l-ei-2-0-d-apres-la-perte-de-son-territoire_5455466_3210.html",
+      "username": "Arnaud"
+    }
+  ],
+  "users": [
+    {
+      "username": "Arnaud",
+      "password": "azerty"
+    },
+    {
+      "username": "Grégoire",
+      "password": "azerty"
+    }
+  ],
+  "userSessions": [
+    {
+      "username": "Grégoire"
+    },
+    {
+      "username": "Grégoire"
+    },
+    {
+      "username": "Grégoire"
+    },
+    {
+      "username": "Grégoire"
+    },
+    {
+      "username": "Grégoire"
+    },
+    {
+      "username": "Grégoire"
+    },
+    {
+      "username": "Grégoire"
+    },
+    {
+      "username": "Grégoire"
+    },
+    {
+      "username": "Grégoire",
+      "sessionId": "08137079998479013"
+    },
+    {
+      "username": "Grégoire"
+    },
+    {
+      "username": "Grégoire",
+      "sessionId": "3525896082221285"
+    },
+    {
+      "username": "Grégoire",
+      "sessionId": "3525896082221285"
+    },
+    {
+      "username": "Grégoire",
+      "sessionId": "3525896082221285"
+    },
+    {
+      "username": "Grégoire"
+    },
+    {
+      "username": "Grégoire",
+      "sessionId": "5100757363583865"
+    },
+    {
+      "username": "Arnaud",
+      "sessionId": "5307038844513086"
     }
   ]
 }
